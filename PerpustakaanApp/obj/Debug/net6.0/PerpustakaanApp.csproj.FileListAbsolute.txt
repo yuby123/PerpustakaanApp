@@ -1,0 +1,14 @@
+D:\MCC VISUAL\Aplikasi_Manajemen_Kontak\PerpustakaanApp\PerpustakaanApp\bin\Debug\net6.0\PerpustakaanApp.exe
+D:\MCC VISUAL\Aplikasi_Manajemen_Kontak\PerpustakaanApp\PerpustakaanApp\bin\Debug\net6.0\PerpustakaanApp.deps.json
+D:\MCC VISUAL\Aplikasi_Manajemen_Kontak\PerpustakaanApp\PerpustakaanApp\bin\Debug\net6.0\PerpustakaanApp.runtimeconfig.json
+D:\MCC VISUAL\Aplikasi_Manajemen_Kontak\PerpustakaanApp\PerpustakaanApp\bin\Debug\net6.0\PerpustakaanApp.dll
+D:\MCC VISUAL\Aplikasi_Manajemen_Kontak\PerpustakaanApp\PerpustakaanApp\bin\Debug\net6.0\PerpustakaanApp.pdb
+D:\MCC VISUAL\Aplikasi_Manajemen_Kontak\PerpustakaanApp\PerpustakaanApp\obj\Debug\net6.0\PerpustakaanApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MCC VISUAL\Aplikasi_Manajemen_Kontak\PerpustakaanApp\PerpustakaanApp\obj\Debug\net6.0\PerpustakaanApp.AssemblyInfoInputs.cache
+D:\MCC VISUAL\Aplikasi_Manajemen_Kontak\PerpustakaanApp\PerpustakaanApp\obj\Debug\net6.0\PerpustakaanApp.AssemblyInfo.cs
+D:\MCC VISUAL\Aplikasi_Manajemen_Kontak\PerpustakaanApp\PerpustakaanApp\obj\Debug\net6.0\PerpustakaanApp.csproj.CoreCompileInputs.cache
+D:\MCC VISUAL\Aplikasi_Manajemen_Kontak\PerpustakaanApp\PerpustakaanApp\obj\Debug\net6.0\PerpustakaanApp.dll
+D:\MCC VISUAL\Aplikasi_Manajemen_Kontak\PerpustakaanApp\PerpustakaanApp\obj\Debug\net6.0\refint\PerpustakaanApp.dll
+D:\MCC VISUAL\Aplikasi_Manajemen_Kontak\PerpustakaanApp\PerpustakaanApp\obj\Debug\net6.0\PerpustakaanApp.pdb
+D:\MCC VISUAL\Aplikasi_Manajemen_Kontak\PerpustakaanApp\PerpustakaanApp\obj\Debug\net6.0\PerpustakaanApp.genruntimeconfig.cache
+D:\MCC VISUAL\Aplikasi_Manajemen_Kontak\PerpustakaanApp\PerpustakaanApp\obj\Debug\net6.0\ref\PerpustakaanApp.dll
